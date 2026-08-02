@@ -17,4 +17,4 @@
 ---
 
 ### 📊 Моя статистика
-[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?pridivsebya-dev=pridivsebya-dev&theme=tokyonight)](https://github.com/pridivsebya-dev)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=pridivsebya-dev&theme=tokyonight)](https://github.com/pridivsebya-dev)
