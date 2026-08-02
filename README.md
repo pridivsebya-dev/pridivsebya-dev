@@ -13,3 +13,11 @@
 </div>
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=pridivsebya-dev&theme=nord)](https://github.com/pridivsebya-dev)
+
+<div data-importer="socials" align="right">
+  <a href="https://discord-sensor.com/popalvlimbo" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+  </a>
+</div>
+
+###
