@@ -17,8 +17,8 @@
 ---
 
 ### 📊 Моя статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=arkanizzz-wq&show_icons=true&theme=tokyonight)
+![Stats](https://github-readme-stats.vercel.app/api?username=pridivsebya-dev&show_icons=true&theme=tokyonight)
 
-![Streak](https://streak-stats.demolab.com/?user=arkanizzz-wq&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=pridivsebya-dev&theme=tokyonight)
 
-![Trophy](https://github-profile-trophy.vercel.app/?username=arkanizzz-wq&theme=tokyonight&row=1)
+![Trophy](https://github-profile-trophy.vercel.app/?username=pridivsebya-dev&theme=tokyonight&row=1)
