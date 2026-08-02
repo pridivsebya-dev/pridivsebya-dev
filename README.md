@@ -16,7 +16,7 @@
 
 <div data-importer="socials" align="right">
   <a href="https://discord-sensor.com/popalvlimbo" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="37" height="25" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="62" height="50" alt="discord logo"  />
   </a>
 </div>
 
