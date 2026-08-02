@@ -11,7 +11,10 @@
   <img width="107" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
+
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=pridivsebya-dev&theme=tokyonight)](https://github.com/pridivsebya-dev)
+
+
 ###
 
 <div data-importer="image" align="center">
