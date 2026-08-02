@@ -13,18 +13,3 @@
 </div>
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=pridivsebya-dev&theme=tokyonight)](https://github.com/pridivsebya-dev)
-
-
-###
-
-<div data-importer="image" align="center">
-  <img data-importer="image" height="465" src="https://i.pinimg.com/736x/7f/b3/63/7fb363a3956bd0a5ad32bcb1d95c39f1.jpg"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/pridivsebya-dev/pridivsebya-dev/snake-output/snake.svg" alt="Snake animation" />
-
-###
