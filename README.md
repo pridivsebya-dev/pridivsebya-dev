@@ -13,3 +13,9 @@
 </div>
 
 [![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?username=pridivsebya-dev&theme=nord)](https://github.com/pridivsebya-dev)
+
+<div data-importer="profile-views" align="center">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:pridivsebya-dev?theme=3d-num&padding=4&scale=0.4&align=top&pixelated=0&darkmode=1"  />
+</div>
+
+###
