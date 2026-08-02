@@ -17,8 +17,4 @@
 ---
 
 ### 📊 Моя статистика
-![Stats](https://github-readme-stats.vercel.app/api?username=pridivsebya-dev&show_icons=true&theme=tokyonight)
-
-![Streak](https://streak-stats.demolab.com/?user=pridivsebya-dev&theme=tokyonight)
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=pridivsebya-dev&theme=tokyonight&row=1)
+[![GitHub Stats Terminal](https://github-stats-terminal-style-five.vercel.app/api/stats?pridivsebya-dev=pridivsebya-dev&theme=tokyonight)](https://github.com/pridivsebya-dev)
